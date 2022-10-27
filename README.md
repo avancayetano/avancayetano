@@ -1,5 +1,6 @@
 # About me
-Hi, I am Anthony Van Cayetano, currently a BS Computer Science student. I like coding in my free time and creating whatever random projects I find to be interesting. I am currently interested in 3D game development using JavaScript.
+Hi, I am Anthony Van Cayetano, currently a BS Computer Science student. I like coding in my free time and creating whatever random projects I find to be interesting. I am currently interested in Web development, 3D game development, and Data science. 
+
 
 
 [See my past projects here](https://github.com/avancayetano?tab=repositories) or my [portfolio website](https://avancayetano.github.io/).
